@@ -1,0 +1,5 @@
+2025-04-04 08:23:54.113046 - Received CBT.V508.FILE355.PDS from FILE355.XMI 
+2025-04-04 08:23:54.113725 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE355.PDS, moved to PDS/$$$#DATE
+2025-04-04 08:23:54.113876 - Found @FILE355.txt (text/plain) in CBT.V508.FILE355.PDS, moved to PDS/@FILE355
+2025-04-04 08:23:54.114061 - Found KONCAT.jcl (text/plain) in CBT.V508.FILE355.PDS, moved to PDS/KONCAT
+2025-04-04 08:23:54.114193 - Found KONCAT#.txt (text/plain) in CBT.V508.FILE355.PDS, moved to PDS/KONCAT#
